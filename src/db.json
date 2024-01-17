@@ -1,0 +1,45 @@
+{
+    "DataOfAdmin":[
+        {
+          "id": "1",
+          "user": "Aravind Gujjala",
+          "email": "Aravindhgujjala@gmail.com",
+          "status": "Active",
+          "transaction":"$210",
+          "phone":"+91 9856 321 652",
+          "src":"https://cdn.pixabay.com/photo/2023/11/02/16/49/cat-8361048_1280.jpg"
+        },
+        {
+            "id": "2",
+            "user": "Sai Teja ",
+            "email": "saitejavenkat@gmail.com",
+            "status": "Active",
+            "transaction":"$170",
+            "phone":"+91 9621 321 852"
+          },
+          {
+            "id": "3",
+            "user": "Sathish",
+            "email": "sathisam452@gmail.com",
+            "status": "Active",
+            "transaction":"$110",
+            "phone":"+91 7706 321 863"
+          },
+          {
+            "id": "4",
+            "user": "Sanjay",
+            "email": "Sanjay@gmail.com",
+            "status": "Active",
+            "transaction":"$110",
+            "phone":"+91 7706 321 863"
+          },
+          {
+            "id": "5",
+            "user": "Pavan",
+            "email": "pavan@gmail.com",
+            "status": "Active",
+            "transaction":"$110",
+            "phone":"+91 7706 321 863"
+          }
+      ]
+}

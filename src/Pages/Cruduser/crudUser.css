@@ -1,0 +1,57 @@
+
+.table{
+   flex: 4;
+}
+.table-head{
+    background-color: #cccc;
+    color: #222;
+}
+.table th,.table td{
+    padding: 0.8rem;
+}
+
+.table td {
+    border-top: 0.5px solid #ddd;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .table tbody tr:hover {
+    background-color: #eee;
+  }
+  .value{
+    width: 20%;
+    text-align: center;
+  }
+  .user{
+    width: 30%;
+    text-align: center;
+  }
+  .phone{
+    width: 20%;
+    text-align: center;
+  }
+  .expand {
+    width: 32%;
+    text-align: center;
+  }
+  
+  .label {
+    border-radius: 3px;
+    padding: 0.3rem;
+    color: white;
+  }
+ 
+  .actions {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .actions svg {
+    cursor: pointer;
+  }
+  
+  .delete-btn {
+    color: #e10d05;
+  }

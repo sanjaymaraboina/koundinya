@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/koundinya/static/css/main.ef7e7065.css",
+    "main.js": "/koundinya/static/js/main.503e6034.js",
+    "static/media/aravind.jpg": "/koundinya/static/media/aravind.0188f72a061d1e28492a.jpg",
+    "static/media/ravi.jpg": "/koundinya/static/media/ravi.8e34059780b9d78822d4.jpg",
+    "static/media/sathish.jpg": "/koundinya/static/media/sathish.ab04c37ca604e495685e.jpg",
+    "static/media/pawan.jpg": "/koundinya/static/media/pawan.319252d169c199eec1b7.jpg",
+    "static/media/iphone15.jpeg": "/koundinya/static/media/iphone15.e8a0663a7964552e0273.jpeg",
+    "static/media/praneeth.jpg": "/koundinya/static/media/praneeth.9b2ae0f7940c4e1b2521.jpg",
+    "static/media/iphone13.jpeg": "/koundinya/static/media/iphone13.33199a96d1e97ff247b3.jpeg",
+    "static/media/Screenshot 2024-01-07 221835.png": "/koundinya/static/media/Screenshot 2024-01-07 221835.54e5b68c48502e49e2d3.png",
+    "static/media/srihari.png": "/koundinya/static/media/srihari.fa3c1395995e0536f805.png",
+    "static/media/karthik.jpg": "/koundinya/static/media/karthik.3748c257240e45601889.jpg",
+    "static/media/saiteja.jpg": "/koundinya/static/media/saiteja.11e6f22095e9e9d48224.jpg",
+    "static/media/iphone14.jpeg": "/koundinya/static/media/iphone14.ac9e6566401cf2b74567.jpeg",
+    "static/media/sulthan.jpg": "/koundinya/static/media/sulthan.4816eb135a5fce6063dc.jpg",
+    "static/media/sanju.jpg": "/koundinya/static/media/sanju.d05ab11df8d4c673ce46.jpg",
+    "static/media/pranay.jpg": "/koundinya/static/media/pranay.19f924f53c4b33cdcd38.jpg",
+    "static/media/praveen.jpg": "/koundinya/static/media/praveen.bb1ef7556ac49130f4dc.jpg",
+    "static/media/iwatch.avif": "/koundinya/static/media/iwatch.be2cf04f3c1687395034.avif",
+    "static/media/lalith.jpg": "/koundinya/static/media/lalith.44b59308dd428ff0a20d.jpg",
+    "static/media/narsingh.jpg": "/koundinya/static/media/narsingh.9bf0ad9df8c906c08725.jpg",
+    "static/media/mahi.jpg": "/koundinya/static/media/mahi.33f49990521e9d4a57a3.jpg",
+    "static/media/kareem.jpg": "/koundinya/static/media/kareem.e3f5bfbdf12def3c3fcf.jpg",
+    "static/media/airpods.jpg": "/koundinya/static/media/airpods.a8a2ace2b35cd4ede2d9.jpg",
+    "static/media/airtag.webp": "/koundinya/static/media/airtag.6fddb027555727b2cebc.webp",
+    "static/media/desktop.jpg": "/koundinya/static/media/desktop.a02208b1bcf733824c14.jpg",
+    "static/media/ganesh.jpg": "/koundinya/static/media/ganesh.da5c714a86eb95bf5564.jpg",
+    "static/media/jabi.jpg": "/koundinya/static/media/jabi.c87b568d61124db4a21a.jpg",
+    "static/media/aditya.jpg": "/koundinya/static/media/aditya.10f469e573185ddac029.jpg",
+    "static/media/laptop.avif": "/koundinya/static/media/laptop.786bed93923eb5cf3c4b.avif",
+    "static/media/ipod.jpeg": "/koundinya/static/media/ipod.66d08d90f61fe6f7c139.jpeg",
+    "index.html": "/koundinya/index.html",
+    "main.ef7e7065.css.map": "/koundinya/static/css/main.ef7e7065.css.map",
+    "main.503e6034.js.map": "/koundinya/static/js/main.503e6034.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef7e7065.css",
+    "static/js/main.503e6034.js"
+  ]
+}

@@ -1,5 +1,4 @@
 #
-![Screenshot 2024-01-24 170341](https://github.com/sanjaymaraboina/koundinya/assets/153506569/f50d8ef7-a4dd-4e84-b49d-49cea463ffa3)
 
 ![Screenshot 2024-02-01 162125](https://github.com/sanjaymaraboina/koundinya/assets/153506569/5c40fe82-75b1-4ce6-9f15-7e063bb7646b)
 ![Screenshot 2024-02-01 162155](https://github.com/sanjaymaraboina/koundinya/assets/153506569/aec78965-abb8-4d10-97d9-dc1d44815338)
